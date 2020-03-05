@@ -1,0 +1,5 @@
+pipenv==2018.11.26
+requests==2.23.0
+urllib3==1.25.8
+virtualenv==16.7.9
+
